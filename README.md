@@ -1,6 +1,6 @@
 # How to Bypass CAPTCHAs While Web Scraping
 
-This repository provides examples and code explanations for bypassing CAPTCHAs while web scraping. The code and demonstrations are meant to complement the content presented in a blog [post]() on Zubdata.
+This repository provides examples and code explanations for bypassing CAPTCHAs while web scraping. The code and demonstrations are meant to complement the content presented in a blog [post](https://zubdata.com/how-to-bypass-captchas-while-web-scraping-and-automation-a-comprehensive-guide/) on Zubdata.
 
 ### Types of CAPTCHAs Covered:
 
